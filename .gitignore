@@ -1,0 +1,4 @@
+.superpowers/
+~$*.xlsx
+node_modules/
+dist/
